@@ -57,12 +57,10 @@ This tool can help:
 ---
 
 ## Demo
-
-A preview of the tool is shown in the screenshot below.
-<img width="1455" height="768" alt="image" src="https://github.com/user-attachments/assets/ba1eb54f-07c4-4fea-b377-5cc3f2286824" />
+<img width="3128" height="1650" alt="heterotesty hoise" src="https://github.com/user-attachments/assets/385493de-ceb7-4e67-b7fd-323bb44695e4" />
 
 
----
+￼--
 
 ## Future Goals
 
